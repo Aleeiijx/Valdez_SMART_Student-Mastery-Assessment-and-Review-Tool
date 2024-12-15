@@ -324,7 +324,7 @@ class studentDashboard():
     # ======================================================================= HOME PAGE =======================================================================
     def homeDash(self):
         self.destroy()
-        self.studentbg = PhotoImage(file='student_bg.png') # Student home
+        self.studentbg = PhotoImage(file='studentbg.png') # Student home
         self.studenthome = Label(self.mFrame, image=self.studentbg, bg='#A786EF')
         self.studenthome.pack()
     # ======================================================================= CREATE A REVIEW =======================================================================
