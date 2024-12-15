@@ -62,6 +62,7 @@ def signUp():
         FOREIGN KEY (student_id) REFERENCES student(student_id),
         FOREIGN KEY (assessment_id) REFERENCES assessment(assessment_id),
         FOREIGN KEY (teacher_id) REFERENCES teacher(teacher_id)
+        UNIQUE(student_id, assessment_id, teacher_id, attempt_number)
     )""")
     connect.commit()
     connect.close()
