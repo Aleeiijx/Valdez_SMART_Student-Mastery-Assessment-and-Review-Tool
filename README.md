@@ -141,8 +141,8 @@ IT – 2101
 
 ## 📧 **Contact Information**
 For inquiries or suggestions, please contact:
-- **Email**: [your-email@example.com](23-o5619@g.batstate-u.edu.ph)
-- **GitHub**: [GitHub Username](https://github.com/Aleeiijx/Valdez_SMART_Student-Mastery-Assessment-and-Review-Tool/new/main?filename=README.md)
+- **Email**: [23-05619@g.batstate-u.edu.ph](23-05619@g.batstate-u.edu.ph)
+- **GitHub**: [https://github.com/Aleeiijx](https://github.com/Aleeiijx)
 
 ---
 
